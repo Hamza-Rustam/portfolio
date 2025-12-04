@@ -1,0 +1,87 @@
+{
+  "name": "Hamza Rustam",
+  "objective": "A highly motivated professional with strong expertise in machine learning, data analysis, and building practical data-driven solutions. Skilled in Python, Pandas, NumPy, and Matplotlib, with hands-on experience in cleaning messy datasets, exploring patterns, and visualizing insights in a clear and meaningful way. I enjoy working with real-world data, understanding the story behind the numbers, and creating models that solve actual problems. My work focuses on turning raw information into useful insights that help teams make better decisions. I have experience with end-to-end ML workflows, including data preprocessing, feature engineering, model training, evaluation, and interpretation. Along with technical skills, I value clear communication, consistency, and teamwork to deliver results that align with business goals. Always curious and eager to learn, I keep improving my skills and exploring new tools and techniques to stay updated with the fast-growing AI and ML industry.",
+  "education": [
+    {
+      "degree": "Bachelor in Software Engineering",
+      "university": "University of Swat",
+      "cgpa": "3.5/4.0",
+      "location": "Charbagh, Swat",
+      "duration": "Nov-2020 to Aug-2024"
+    },
+    {
+      "degree": "Intermediate in Computer Science",
+      "university": "GOVT Jahanzeb College",
+      "location": "Saidu Sharif, Swat",
+      "duration": "2018 to 2020"
+    },
+    {
+      "degree": "Matriculation (Science)",
+      "university": "Swat Standard Public School",
+      "location": "Odigram, Swat",
+      "duration": "2016 to 2018"
+    }
+  ],
+  "professionalExperiences": [
+    {
+      "title": "Machine Learning Internee",
+      "company": "INNEXIV Private limited",
+      "duration": "Oct 2024 to Dec 2024",
+      "location": "Swat, Pakistan",
+      "responsibilities": [
+        "Jointly design and develop machine learning models and algorithms to tackle complex, real-world challenges.",
+        "Support data preparation, feature optimization, and model assessment to boost predictive performance.",
+        "Engage in collaborative team sessions to fine-tune project objectives and co-create pioneering AI solutions."
+      ]
+    }
+  ],
+  "internshipExperiences": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "SkillBuild",
+      "location": "Coimbatore North, Tamil Nadu, India",
+      "duration": "July 2024 to Sep 2024"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "CodeAlpha",
+      "location": "Lucknow UP, India",
+      "duration": "OCT 2023 - Nov 2023"
+    }
+  ],
+  "publications": [
+    {
+      "title": "AI-Driven Fog-Edge Computing for IoMT Systems: Architecture and Use Cases",
+      "description": "This paper proposes an AI-powered fog-edge-cloud system for Internet of Medical Things (IoMT). It processes data locally for real-time monitoring, uses fog servers for advanced analytics and security, and stores data in the cloud for large-scale AI tasks. The approach reduces latency, enhances privacy, and enables faster, reliable healthcare decisions compared to traditional cloud-only systems.",
+      "status": "Published"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Data Manipulation in Python: Master Python, NumPy & Pandas",
+      "issuer": "Udemy",
+      "date": "Sep 2025"
+    },
+    {
+      "title": "Machine Learning from Basic to Advance",
+      "issuer": "Udemy",
+      "date": "May 2025"
+    },
+    {
+      "title": "The SQL Programming Essentials Immersive Training",
+      "issuer": "Udemy",
+      "date": "Jun 2024"
+    },
+    {
+      "title": "Data Manipulation with Python",
+      "issuer": "Udemy",
+      "date": "Aug 2024"
+    },
+    {
+      "title": "Machine Learning Algorithms",
+      "issuer": "Great Learning",
+      "date": "May 2024"
+    }
+  ],
+  "references": "Available upon request"
+}

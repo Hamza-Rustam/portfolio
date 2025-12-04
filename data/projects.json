@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Classification of Heart Disease",
+    "description": "Built a CNN-RNN-LSTM model to predict heart disease from medical data."
+  },
+  {
+    "title": "Breast Cancer Classification",
+    "description": "Implemented an LSTM-CNN-RNN model for breast cancer classification from imaging data."
+  },
+  {
+    "title": "Multiple Face Detection using OpenCV",
+    "description": "Built an OpenCV-based face detection system for real-time face identification"
+  },
+  {
+    "title": "DataFit (Final Year Project)",
+    "duration": "Jan – 2024 to Nov - 2024",
+    "description": "Leveraged pre-built functions to preprocess data, addressing missing values, categorical/text data, and normalization/standardization. Utilized feature engineering tools to extract, transform, and select relevant features, boosting model accuracy. Employed built-in algorithms to identify and balance imbalanced datasets, ensuring robust model training."
+  }
+]

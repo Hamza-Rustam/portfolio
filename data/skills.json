@@ -1,0 +1,27 @@
+{
+  "languages": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "Keras",
+    "Matplotlib",
+    "Streamlit",
+    "HTML",
+    "CSS"
+  ],
+  "frameworks": [],
+  "tools": [
+    "JetBrains Tools",
+    "VS Code",
+    "Prototype Designing",
+    "git",
+    "GitHub",
+    "Microsoft Office (Word, Excel, PowerPoint, Visio, Publisher)",
+    "Canva",
+    "Star UML",
+    "PowerBI",
+    "Orange",
+    "Tableue"
+  ]
+}
