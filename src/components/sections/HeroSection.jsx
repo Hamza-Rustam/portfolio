@@ -14,7 +14,7 @@ const HeroSection = ({ scrollTo }) => {
       id="hero"
       className="relative min-h-screen flex items-center justify-center px-4 md:px-8 pt-24 pb-12"
     >
-      <div className="absolute inset-0 bg-black/80 md:bg-transparent pointer-events-none" />
+      <div className="absolute inset-0 bg-black/30 md:bg-transparent pointer-events-none" />
       <div className="max-w-7xl mx-auto w-full">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center">
           {/* Left side - Profile Picture */}
